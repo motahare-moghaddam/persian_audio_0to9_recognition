@@ -1,6 +1,6 @@
 # persian_audio_0to9_recognition
 
-Project introduction
+
 This project was created with the aim of recognizing  audio of persian nummeric from 0 to 9
 dataset of this project was gathered by Computer-science Students in Rajaee University in spring of 2024
 The tools used in this project are deep learning algorithms and tensor flow/ keras framework and cnn and rnn networks to help us get a better understanding of spectrogram of frequency and wave form of audios
