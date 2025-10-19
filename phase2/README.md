@@ -107,7 +107,7 @@ model = tf.keras.models.load_model(
 | Feature | Batch Processing | Real-Time Streaming |
 |---------|------------------|---------------------|
 | **Processing Speed** | 30 files/min | <100ms latency |
-| **Accuracy** | 95%+ on test set | 92%+ real-time |
+| **Accuracy** | 90%+ on test set | 89%+ real-time |
 | **Memory Usage** | Optimized batching | Continuous stream |
 | **Output Format** | CSV/TXT files | Console real-time |
 
